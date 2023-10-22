@@ -27,6 +27,9 @@ In processing the I/O, memory and skills are produced as side effects to enrich 
 Memory provides long and short term context to the inputs.
 Skills are resuable components developed by the LLM. These could be executable code. Resuable apps or mini LLMs. The key is they are resuable, are auto-developed by the LLM (developers can create their own to fast-track capabilities).
 
+Skills and memory are self reinforcing. They are iteratively improved by self-reinforcement learning.
+! Look at Voyager and AI self development of reward functions. !
+
 Strings would be the medium of communicating information from input to output.
 
 
